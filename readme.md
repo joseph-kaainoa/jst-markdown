@@ -1,6 +1,6 @@
-# JST Markdown
+# JavaScript Template (JST) - Markdown
 
-This has examples of more advanced techniques that aren't easily found.
+This has examples of more advanced techniques of Markdown.  Technically, some of these use features of HTML, so depending on the markdown interpreter, you may get mixed results.
 
 1. [Table of Contents](#Table-of-Contents)
 1. [Whitespace](#Whitespace)
